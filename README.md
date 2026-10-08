@@ -130,7 +130,7 @@ lib/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/MobinaFetrati/quiz.git
+git clone https://github.com/CodeminTech/quiz.git
 ```
 
 ### 2️⃣ Navigate to the project
@@ -170,15 +170,9 @@ This project was developed to practice and demonstrate:
 
 ## 👩‍💻 Developer
 
-**Mobina Fetrati**
+**CodemonTech**
 
 Flutter Developer | Mobile Application Developer
 
-🔗 [GitHub](https://github.com/MobinaFetrati)
-
----
-
-⭐ If you find this project interesting, feel free to explore the repository!
-
-```
-```
+🔗 GitHub:
+GitHub: https://github.com/CodeminTech
